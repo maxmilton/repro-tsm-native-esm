@@ -1,6 +1,6 @@
 # Repro `tsm` native esm
 
-Minimal reproducible case for [tsm](https://github.com/lukeed/tsm) bug.
+Minimal reproducible case for [tsm](https://github.com/lukeed/tsm) bug. See <https://github.com/lukeed/tsm/issues/7>.
 
 ## Instructions
 
