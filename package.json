@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node -r tsm index.ts"
+  },
+  "dependencies": {
+    "get-port": "6.0.0",
+    "tsm": "2.1.0"
+  }
+}
